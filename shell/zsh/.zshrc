@@ -34,3 +34,11 @@ source "$DOTFILES_PATH/shell/zsh/key-bindings.zsh"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 (( ! ${+functions[p10k]} )) || p10k finalize
+
+# To add the tags for Tag :D
+
+if (( $+commands[tag] )); then
+  export TAG_SEARCH_PROG=ag  # replace with rg for ripgrep
+  tag() { command tag "$@"; source ${TAG_ALIAS_FILE:-/tmp/tag_aliases} 2>/dev/null }
+  alias ag=tag  # replace with rg for ripgrep
+fi
