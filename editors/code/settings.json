@@ -3,7 +3,6 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.snippetSuggestions": "top",
     "editor.formatOnPaste": false,
-    "python.pythonPath": "python3",
     "git.autofetch": true,
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
@@ -41,7 +40,6 @@
     "todohighlight.isEnable": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "explorer.confirmDelete": false,
-    "terminal.explorerKind": "external",
     "terminal.external.osxExec": "ITerm.app",
     "terminal.integrated.rendererType": "dom",
     "todo-tree.highlights.enabled": false,
@@ -61,7 +59,6 @@
     },
     "bracketPairColorizer.excludedLanguages": [],
     "typescript.tsserver.log": "verbose",
-    "terminal.integrated.fontFamily": "Meslo LG S for Powerline",
     "workbench.activityBar.visible": true,
     "coverage-gutters.xmlname": "cobertura-coverage.xml",
     "todo-tree.tree.showScanModeButton": false,
@@ -82,5 +79,6 @@
     "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "sonarlint.pathToNodeExecutable": "~/.nvm/versions/node/v12.11.1/bin/node"
+    "sonarlint.pathToNodeExecutable": "~/.nvm/versions/node/v12.11.1/bin/node",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
 }
