@@ -1,5 +1,4 @@
 {
-
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.snippetSuggestions": "top",
     "editor.formatOnPaste": false,
@@ -70,15 +69,12 @@
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
-    "[typescript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "editor.formatOnSave": false,
+    "eslint.alwaysShowStatus": true,
     "jest.pathToJest": "",
     "terminal.integrated.shell.osx": "/bin/zsh",
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "sonarlint.pathToNodeExecutable": "~/.nvm/versions/node/v12.11.1/bin/node",
     "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
 }

@@ -28,3 +28,6 @@ alias i.='(idea $PWD &>/dev/null &)'
 alias c.='(code $PWD &>/dev/null &)'
 alias o.='open .'
 alias up='dot package update_all'
+
+# Enviroments
+alias bokita='nvm use lts/erbium'
