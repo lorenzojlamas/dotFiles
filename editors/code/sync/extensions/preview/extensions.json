@@ -487,6 +487,14 @@
 	},
 	{
 		"identifier": {
+			"id": "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+			"uuid": "08792992-bb56-41fb-b5dd-8551bbee0cb6"
+		},
+		"version": "1.2.1",
+		"installed": true
+	},
+	{
+		"identifier": {
 			"id": "cmstead.jsrefactor",
 			"uuid": "74f34f8a-245e-4133-8617-a3a94b5a417e"
 		},
@@ -636,7 +644,7 @@
 			"id": "orta.vscode-jest",
 			"uuid": "7997a8ae-1fae-4022-b834-12f6318aeffd"
 		},
-		"version": "3.2.0",
+		"version": "4.0.0",
 		"installed": true
 	},
 	{
@@ -649,10 +657,34 @@
 	},
 	{
 		"identifier": {
+			"id": "pnp.polacode",
+			"uuid": "d80b9a94-f4a6-4e39-bc42-62212e365682"
+		},
+		"version": "0.3.4",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "searking.preview-vscode",
+			"uuid": "03e014a0-a915-4672-92b3-77e5a6ad72df"
+		},
+		"version": "2.2.5",
+		"installed": true
+	},
+	{
+		"identifier": {
 			"id": "steoates.autoimport",
 			"uuid": "70378119-1d85-4935-9733-0298c7a369a2"
 		},
 		"version": "1.5.4",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "vstirbu.vscode-mermaid-preview",
+			"uuid": "b7b3f8c2-0526-4262-9e55-045c954adac4"
+		},
+		"version": "1.6.1",
 		"installed": true
 	},
 	{
