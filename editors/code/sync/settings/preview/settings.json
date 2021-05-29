@@ -1,0 +1,80 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "bracketPairColorizer.scopeLineCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.5"
+    ],
+    "appService.showSavePrompt": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "cSpell.language": ",es",
+    "cSpell.userWords": [
+        "Diagram",
+        "Postman",
+        "biométricos",
+        "clock",
+        "comercialization",
+        "conversation",
+        "create",
+        "enviroments",
+        "left",
+        "loop",
+        "mermaid",
+        "movie",
+        "participant",
+        "self",
+        "swagger"
+    ],
+    "breadcrumbs.enabled": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnType": false,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "todohighlight.isEnable": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "terminal.external.osxExec": "ITerm.app",
+    "terminal.integrated.rendererType": "dom",
+    "todo-tree.highlights.enabled": false,
+    "sonarlint.rules": {
+        "typescript:S4325": {
+            "level": "off"
+        },
+        "typescript:S1854": {
+            "level": "off"
+        },
+        "typescript:S2068": {
+            "level": "off"
+        },
+        "typescript:S905": {
+            "level": "off"
+        }
+    },
+    "bracketPairColorizer.excludedLanguages": [],
+    "typescript.tsserver.log": "verbose",
+    "workbench.activityBar.visible": true,
+    "coverage-gutters.xmlname": "cobertura-coverage.xml",
+    "todo-tree.tree.showScanModeButton": false,
+    "debug.javascript.usePreview": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "eslint.alwaysShowStatus": true,
+    "jest.pathToJest": "",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "sonarlint.pathToNodeExecutable": "~/.nvm/versions/node/v12.11.1/bin/node",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+}
